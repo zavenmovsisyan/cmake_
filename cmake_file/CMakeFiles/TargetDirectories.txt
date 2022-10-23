@@ -1,0 +1,3 @@
+/home/zaven/exc/classworks/cmake_file/CMakeFiles/Hello_world.dir
+/home/zaven/exc/classworks/cmake_file/CMakeFiles/edit_cache.dir
+/home/zaven/exc/classworks/cmake_file/CMakeFiles/rebuild_cache.dir
